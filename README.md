@@ -17,13 +17,19 @@ professional associations: 2021
 - https://www.sae.org/standards/j3016_202104-taxonomy-definitions-terms-related-driving-automation-systems-road-motor-vehicles
 
 # Version 2: Popular Version
-0. Momentary assistance  to human action / human operator.
+0. Momentary & Rare Assistance to human action / human operator:
 - alerts, warnings, specific event response
 - e.g. check-engine light
 - proximity beep
+- air-bag deployment during a crash
+- anti-lock breaks reacting to unusual breaking
 - (analogy: highlight possibly-misspelled word)
 
-1. Single-Task Continuous assistance: 
+(Note: There is a significant jump in how 'assistance' is defined between level 0 and level 1,
+this may be important for including and balancing older and known technologies not
+popularly felt to be 'exciting new and mysterious AI!' yet included in a clearer .STEM set of definitions.)
+
+1. Single-Task Continuous and Routine Assistance to human action / human operator:
 - marginal breaking help alone (single type of help)
 - marginal acceleration help alone (single type of help)
 - marginal steering help alone (single type of help)
@@ -48,6 +54,7 @@ professional associations: 2021
 - access to all roads
 - access at all times
 - access under all conditions
+
 
 Note this government regulation wording is significantly different from, and more detailed and nuanced than, popular internet posts:
 
